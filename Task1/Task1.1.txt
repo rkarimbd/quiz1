@@ -1,0 +1,20 @@
+Task 1.1
+
+Functional Requirements for Contact Management System (CMS):
+
+1.	User should be able to add new contacts with first name, last name, company, job title, and optional phone numbers and email addresses.
+
+2.	User should be able to view existing contacts with all their details including first name, last name, company, job title, phone numbers, and email addresses.
+
+3.	User should be able to update existing contact details including first name, last name, company, job title, phone numbers, and email addresses.
+
+4.	User should be able to delete existing contacts.
+5.	User should be able to search for contacts by first name, last name, company, or job title.
+6.	User should be able to merge duplicate contacts, retaining all relevant information from both contacts.
+7.	Each email address should have a label (e.g., home, work, mobile) indicating its relation to the contact.
+8.	Each phone number should have a label (e.g., home, work, mobile) indicating its relation to the contact.
+
+
+
+
+
